@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.fix{
+    width: 100%;
+    height: 10%;
+position: fixed;
+z-index: 10;    
+}
+
+.Home{
+    width: 100%;
+    height: 70%;
+    margin-top: -100px;
+ 
+}

@@ -1,0 +1,8 @@
+.Blogs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  padding-top: 100px;
+    
+}
